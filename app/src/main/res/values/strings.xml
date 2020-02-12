@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HELLO USER</string>
+    <string name="text">Hello user</string>
+    <string name="photo">photo</string>
+    <string name="enter_username">Enter username</string>
+    <string name="ener_password">Ener password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="main_et_hint_enter_password">Enter Password</string>
+    <string name="enter_num_two">ENTER NUM TWO</string>
+    <string name="enter_num_one">ENTER NUM ONE</string>
+    <string name="calc">calc</string>
+    <string name="let_us_go">let us go</string>
+    <string name="hello_user">HELLO USER</string>
+</resources>
