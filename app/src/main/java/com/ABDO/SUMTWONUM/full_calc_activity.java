@@ -237,6 +237,8 @@ try {
             String xx = String.valueOf(num1);
             all.setText(xx);
 
+
+
         }
     });
 } catch (Exception e) {
